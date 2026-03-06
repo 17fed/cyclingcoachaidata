@@ -2,9 +2,10 @@ name: Fetch Intervals CSV
 
 on:
   schedule:
-    - cron: "15 4 * * *"  # daily 04:15 UTC (~05:15 Denmark)
+    - cron: "0 8 * * *"   # 09:00 Copenhagen during CET (UTC+1)
+    - cron: "0 10 * * *"  # 11:00 Copenhagen during CET (UTC+1)
+    - cron: "0 14 * * *"  # 15:00 Copenhagen during CET (UTC+1)
   workflow_dispatch: {}
-
 jobs:
   fetch:
     runs-on: ubuntu-latest
