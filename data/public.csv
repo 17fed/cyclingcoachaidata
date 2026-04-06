@@ -1,5 +1,5 @@
 SECTION,Activities,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Generated,Sun Apr 05 2026 16:37:14 GMT+0200 (Central European Summer Time),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Generated,Mon Apr 06 2026 09:37:24 GMT+0200 (Central European Summer Time),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 id,start_date_local,name,type,moving_time,distance,elapsed_time,total_elevation_gain,max_speed,average_speed,has_heartrate,max_heartrate,average_heartrate,average_cadence,calories,device_watts,icu_average_watts,icu_normalized_watts,icu_joules,icu_intensity,icu_training_load,icu_training_load_edited,icu_rpe,pace,icu_fatigue,icu_fitness,icu_eftp,icu_variability,icu_efficiency,trainer,commute,race,sub_type,icu_ftp,icu_w_prime,p_max,threshold_pace,power_load,hr_load,pace_load,icu_resting_hr,lthr,hr_z1,hr_z2,hr_z3,hr_z4,hr_z5,hr_z6,hr_max,hr_z1_secs,hr_z2_secs,hr_z3_secs,hr_z4_secs,hr_z5_secs,hr_z6_secs,hr_z7_secs,z1_secs,z2_secs,z3_secs,z4_secs,z5_secs,z6_secs,z7_secs,sweet_spot_secs,icu_weight,icu_ignore_power,icu_ignore_hr,icu_ignore_time,icu_recording_time,icu_warmup_time,icu_cooldown_time,icu_hrrc,icu_hrrc_start_bpm,icu_power_spike_threshold,icu_pm_ftp,icu_pm_cp,icu_pm_w_prime,icu_pm_p_max,start_date,icu_sync_date,timezone,file_type,external_id,compliance,gear,description
 i137350791,2026-04-05T11:34:53,Long Ride — A longer aerobic ride,VirtualRide,3898,34317.78,4003,157.0,54.4,31.7,true,172,154,83.78052,582,true,156,160,609697,74.76636,61,,7,8.803946,46.45861,31.346796,212,1.0256411,1.038961,true,false,false,,214,,700,,61,58,,120,182,116,154,172,181,186,191,199,33,1826,2039,0,0,0,0,230,202,3466,0,0,0,0,0,80.6,false,false,false,3897,0,0,,,,159,156,13407,173,2026-04-05T09:34:53Z,2026-04-05T10:42:11Z,,fit,2109508052708261888,46.923077,Kickr Core V2,
@@ -15,9 +15,10 @@ i132266875,2026-03-15T11:15:08,Long Ride — A longer aerobic ride,Ride,9620,688
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 SECTION,Wellness,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-Generated,Sun Apr 05 2026 16:37:14 GMT+0200 (Central European Summer Time),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Generated,Mon Apr 06 2026 09:37:24 GMT+0200 (Central European Summer Time),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 date,weight,restingHR,hrv,hrvSDNN,readiness,menstrualPhase,menstrualPhasePredicted,kcalConsumed,sleepSecs,sleepScore,sleepQuality,avgSleepingHR,soreness,fatigue,stress,mood,motivation,spO2,systolic,diastolic,hydration,hydrationVolume,bloodGlucose,lactate,bodyFat,abdomen,comments,injury,baevskySI,vo2max,steps,bedTime,wakeUpTime,respiration,carbohydrates,protein,fatTotal,locked,ctl,atl,rampRate,ctlLoad,atlLoad,Ride_eftp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-04-06,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31.903316,47.595657,2.2018795,55.0,55.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-04-05,,120,,55.917885,,,,,25500,,,,,,,,,97.0,,,,,,,,,,,,44.0,725,,,13.980952,,,,,31.346796,46.45861,1.8935051,61.0,61.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-04-04,,57,,55.10077,,,,,34479,,,,,,,,,97.0,,,,,,,,,,,,,2999,,,14.083333,,,,,30.632296,44.225563,0.4693203,0.0,0.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-04-03,,123,,57.290916,,,,,31852,,,,,,,,,97.0,,,,,,,,,,,,44.0,2787,,,13.8125,,,,,31.370388,51.017063,5.179199,128.0,128.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -25,4 +26,3 @@ date,weight,restingHR,hrv,hrvSDNN,readiness,menstrualPhase,menstrualPhasePredict
 2026-04-01,,63,,38.967487,,,,,16862,,,,,,,,,96.0,,,,,,,,,,,,,3316,,,14.694445,,,,,28.32023,36.15385,2.0114326,0.0,0.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-03-31,,60,,56.572975,,,,,29201,,,,,,,,,98.0,,,,,,,,,,,,,5331,,,13.571428,,,,,29.002613,41.705814,2.0598984,0.0,0.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-03-30,,114,,50.292274,,,,,16920,,,,,,,,,98.0,,,,,,,,,,,,43.0,3879,,,15.363636,,,,,29.701437,48.110367,2.1095314,40.0,40.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-03-29,,55,,54.447155,,,,,26285,,,,,,,,,97.0,,,,,,,,,,,,,2749,,,14.7,,,,,29.45329,49.355835,3.8711224,0.0,0.0,211.78801,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
